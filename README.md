@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Thanks to Apache NiFi's powerful data flow management capabilities, I have developed a sample application and will show you how to use this impressive platform in the article below. If you want to get more detailed information about Nifi, see What is Apache Nifi? You can read my article.
+With the robust data flow management capabilities offered by Apache NiFi, I have created a sample application and will guide you on harnessing the potential of this remarkable platform in the article below. If you're interested in delving deeper into NiFi, please refer to "What is Apache NiFi?" for a more comprehensive overview, which you can find in my article.
 
 ![image](https://github.com/burakugurr/Apache-Nifi-Demo/assets/42806395/11bdfd1b-385b-4bf0-bc0d-bae3144104b7)
 
