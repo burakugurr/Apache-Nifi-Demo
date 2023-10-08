@@ -14,6 +14,10 @@ Endpoints will be:
 
 Article Adress:
 
+1. https://medium.com/@burakugur/uçtan-uca-apache-nifi-uygulaması-3f2e04ced49e
+
+2. https://medium.com/@burakugur/apache-nifi-nedir-f19111fb5802
+
 ## Requirements
 - Docker
 
